@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.num1, .num3, .num5 {
+    background-color: orange;
+}
+
+.num3 {
+    font-size: 40px;
+}
+
+#num2 {
+    color: blue;
+    font-size: 50px;
+}
+
+.num4 {
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: 38px;
+}
